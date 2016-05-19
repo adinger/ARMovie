@@ -6,7 +6,7 @@ Stack: Unity C#, Vuforia, TMDB API, OMDB API.
 ###Usage
 
 .apk works on Android S4 and up.
-Source code uses additional uWebkit plugin for showing in-scene trailers that only works in Windows build.
+Source code uses additional uWebkit plugin for showing in-scene trailers that only works in PC build.
 
 ###Scanning a Movie
 
