@@ -8,8 +8,8 @@ Stack: Unity C#, Vuforia, TMDB API, OMDB API.
 
 ###Scanning a Movie
 
-![alt tag](https://raw.githubusercontent.com/adinger/ARMovie/master/13234765_10207236241396598_613187838_o.png)
+![alt tag](https://raw.githubusercontent.com/adinger/ARMovie/master/ARMovieSCAN.jpg)
 
 ###Adding a Movie
 
-![alt tag](https://raw.githubusercontent.com/adinger/ARMovie/master/13235018_10207236235876460_2039139249_o.png)
+![alt tag](https://raw.githubusercontent.com/adinger/ARMovie/master/ARMovieADD.jpg)
