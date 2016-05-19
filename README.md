@@ -8,10 +8,7 @@ Stack: Unity C#, Vuforia SDK, TMDB API, OMDB API, uWebkit (PC build only)
 .apk works on Android S4 and up.
 Source code uses additional uWebkit plugin for showing in-scene trailers that only works in PC build.
 
-###Scanning a Movie
+###Screenshots
 
-![alt tag](https://raw.githubusercontent.com/adinger/ARMovie/master/ARMovieSCAN.jpg)
+![alt tag](https://raw.githubusercontent.com/adinger/ARMovie/master/ARMovie.png)
 
-###Adding a Movie
-
-![alt tag](https://raw.githubusercontent.com/adinger/ARMovie/master/ARMovieADD.jpg)
