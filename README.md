@@ -1,6 +1,6 @@
 # ARMovie
 
-An Android app that allows users to scan IMDB movie posters and displays the information for that movie. It also allows users to add new movies that are not already in the cloud database.
+A Unity app for PC and Android that allows users to scan IMDB movie posters and displays the information for that movie. Allows crowd-sourcing by having users add new movies that are not already in the cloud database.
 
 Stack: Unity C#, Vuforia SDK, TMDB API, OMDB API, uWebkit (PC build only)
 ###Usage
